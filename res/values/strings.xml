@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">SampleVoiceRecorder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">VoiceRecorderTest</string>
+    <string name="title_activity_player">MediaPlayerTest</string>
+
+    <string name="button_rec_start">"録音開始"</string>
+    <string name="button_rec_stop">"録音停止"</string>
+
+
+    <string name="button_play_start">"再生開始"</string>
+    <string name="button_play_stop">"再生停止"</string>
+
+    <string name="button_finish">"閉じる"</string>
+
+    <string name="description">"VoiceRecorderのサンプルアプリです"</string>
+    <string name="description_recording">"録音中"</string>
+    <string name="description_recorded">"録音完了"</string>
+    <string name="description_playing">"再生中"</string>
+    <string name="description_play_end">"再生終了"</string>
+
+    <string name="error_not_recording">"録音中ではありません"</string>
+    <string name="error_not_playing">"再生中ではありません"</string>
+
+
+</resources>
